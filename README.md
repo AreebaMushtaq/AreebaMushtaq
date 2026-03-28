@@ -1,8 +1,8 @@
 # Hi, I'm Areeba 👋
 CS & AI Student | Data Science & AI Enthusiast |Front-end Development | Python • C++ • SQL
 ## 📫 Contact
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/areeba-mushtaq429)  
-- Email: [areeba123@gmail.com](mailto:areeba123@gmail.com)
+- LinkedIn: [Areeba Mushtaq](https://www.linkedin.com/in/areeba-mushtaq429)  
+- Email: [areeba.kh830@gmail.com](mailto:areeba.kh830@gmail.com)
 
 ## 💻 Skills
 - **Languages:** Python, C++, SQL  
