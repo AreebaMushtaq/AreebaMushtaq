@@ -18,7 +18,7 @@ CS & AI Student | Data Science & AI Enthusiast |Front-end Development | Python �
 
 ## 🚀 Projects
 - [Calculator App](https://github.com/AreebaMushtaq/Calculator-app) – Streamlit app for basic & advanced calculations.  
-- [EduSphere Smart Prtal](https://github.com/AreebaMushtaq/Edu-Sphere-App) – Built with Python and Streamlit, includes interactive features for learning.  
+- [EduSphere Smart Portal](https://github.com/AreebaMushtaq/Edu-Sphere-App) – Built with Python and Streamlit, includes interactive features for learning.  
 - **Data Analysis** – Cleaning, analyzing, and visualizing a dataset to uncover trends and insights using Python, Pandas, and Plotly.  
 
 ## 🎯 Current Focus
