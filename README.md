@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Areeba 👋
+Computer Science Student | Data Science & AI Enthusiast | Python • C++ • SQL  
 
-<!--
-**AreebaMushtaq/AreebaMushtaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Skills
+- **Languages:** Python, C++, SQL  
+- **Data Science:** Pandas, NumPy, Matplotlib, Plotly  
+- **AI/ML:** Scikit-learn, TensorFlow, PyTorch  
+- **Web Development:** HTML, CSS, JavaScript, React  
+- **Tools:** Git, GitHub, VS Code  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **Calculator App** – Streamlit app for basic & advanced calculations.  
+- **E-commerce Website** – HTML/CSS/JS frontend, Express.js backend, MongoDB database.  
+- **Supermarket Sales Analysis** – Python data cleaning, visualization & insights.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+- Portfolio: [My Portfolio](https://yourportfolio.com)  
+- Email: [areeba123@gmail.com](mailto:areeba123@gmail.com)
