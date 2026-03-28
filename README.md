@@ -1,6 +1,5 @@
 # Hi, I'm Areeba 👋
 CS & AI Student | Data Science & AI Enthusiast |Front-end Development | Python • C++ • SQL
-## 📫 Contact
 - LinkedIn: [Areeba Mushtaq](https://www.linkedin.com/in/areeba-mushtaq429)  
 - Email: [areeba.kh830@gmail.com](mailto:areeba.kh830@gmail.com)
 
@@ -30,4 +29,7 @@ CS & AI Student | Data Science & AI Enthusiast |Front-end Development | Python �
 ## 🌟 Goals
 - Contribute to **open-source projects** in Data Science & AI  
 - Land an internship/job in **Data Science or AI**  
-- Master **Python, AI frameworks, and real-world project experience**  
+- Master **Python, AI frameworks, and real-world project experience**
+- 
+## 🎉 Fun Fact
+I love exploring new technologies while sipping endless cups of tea and sometimes I challenge myself by building mini-projects in a single day! 🚀
