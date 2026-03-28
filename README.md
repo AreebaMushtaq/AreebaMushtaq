@@ -1,5 +1,5 @@
 # Hi, I'm Areeba 👋
-CS & AI Student | Data Science & AI Enthusiast |Front-end Development | Python • C++ • SQL
+CS & AI Student | Data Science & AI Enthusiast | Front-end Development | Python • C++ • SQL
 - LinkedIn: [Areeba Mushtaq](https://www.linkedin.com/in/areeba-mushtaq429)  
 - Email: [areeba.kh830@gmail.com](mailto:areeba.kh830@gmail.com)
 
