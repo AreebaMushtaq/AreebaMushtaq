@@ -17,7 +17,7 @@ CS & AI Student | Data Science & AI Enthusiast |Front-end Development | Python �
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ## 🚀 Projects
-- **Calculator App** – Streamlit app for basic & advanced calculations.  
+- [Calculator App](https://github.com/AreebaMushtaq/Calculator-app) – Streamlit app for basic & advanced calculations.  
 - **EduSphere App** – Built with Python and Streamlit, includes interactive features for learning.  
 - **Data Analysis** – Cleaning, analyzing, and visualizing a dataset to uncover trends and insights using Python, Pandas, and Plotly.  
 
