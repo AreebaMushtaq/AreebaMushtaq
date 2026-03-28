@@ -16,7 +16,18 @@ CS & AI Student | Data Science & AI Enthusiast |Front-end Development | Python �
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 ## 🚀 Projects
 - **Calculator App** – Streamlit app for basic & advanced calculations.  
 - **EduSphere App** – Built with Python and Streamlit, includes interactive features for learning.  
 - **Data Analysis** – Cleaning, analyzing, and visualizing a dataset to uncover trends and insights using Python, Pandas, and Plotly.  
+
+## 🎯 Current Focus
+- Learning advanced **Machine Learning and Deep Learning**  
+- Improving **full-stack web development skills** (React + Node.js)  
+- Building more **interactive data science projects**
+
+## 🌟 Goals
+- Contribute to **open-source projects** in Data Science & AI  
+- Land an internship/job in **Data Science or AI**  
+- Master **Python, AI frameworks, and real-world project experience**  
