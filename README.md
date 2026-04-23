@@ -1,5 +1,5 @@
 # Hi, I'm Areeba 👋
-CS & AI Student | Data Science & AI Enthusiast | Front-end Development | Python • C++ • SQL
+CS & AI Student | Data Science & AI Enthusiast | Front-end Development | Power BI | Python • C++ • SQL
 - LinkedIn: [Areeba Mushtaq](https://www.linkedin.com/in/areeba-mushtaq429)  
 - Email: [areeba.kh830@gmail.com](mailto:areeba.kh830@gmail.com)
 
@@ -19,7 +19,8 @@ CS & AI Student | Data Science & AI Enthusiast | Front-end Development | Python 
 ## 🚀 Projects
 - [Calculator App](https://github.com/AreebaMushtaq/Calculator-app) – Streamlit app for basic & advanced calculations.  
 - [EduSphere Smart Portal](https://github.com/AreebaMushtaq/Edu-Sphere-App) – Built with Python and Streamlit, includes interactive features for learning.  
-- [Supermarket Sales Data Analysis & Visualization Project](https://github.com/AreebaMushtaq/Super-Market-Data-Analysis-and-Visualization) – Cleaning, analyzing, and visualizing a dataset to uncover trends and insights using Python, Pandas, and Plotly.  
+- [Supermarket Sales Data Analysis & Visualization Project](https://github.com/AreebaMushtaq/Super-Market-Data-Analysis-and-Visualization) – Cleaning, analyzing, and visualizing a dataset to uncover trends and insights using Python, Pandas, and Plotly.
+- [Animal LifeSpan Predicting System](https://github.com/AreebaMushtaq/Aniamal-LifeSpan-Predicting-System)- Machine learning-based web app that predicts animal lifespan using Linear and Polynomial Regression with a Streamlit interface.
 
 ## 🎯 Current Focus
 - Learning advanced **Machine Learning and Deep Learning**  
