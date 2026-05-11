@@ -17,10 +17,11 @@ CS & AI Student | Data Science & AI Enthusiast | Front-end Development | Power B
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ## 🚀 Projects
-- [Calculator App](https://github.com/AreebaMushtaq/Calculator-app) – Streamlit app for basic & advanced calculations.  
 - [EduSphere Smart Portal](https://github.com/AreebaMushtaq/Edu-Sphere-App) – Built with Python and Streamlit, includes interactive features for learning.  
 - [Supermarket Sales Data Analysis & Visualization Project](https://github.com/AreebaMushtaq/Super-Market-Data-Analysis-and-Visualization) – Cleaning, analyzing, and visualizing a dataset to uncover trends and insights using Python, Pandas, and Plotly.
 - [Animal LifeSpan Predicting System](https://github.com/AreebaMushtaq/Aniamal-LifeSpan-Predicting-System)- Machine learning-based web app that predicts animal lifespan using Linear and Polynomial Regression with a Streamlit interface.
+- [Spam Email Detection System](https://github.com/AreebaMushtaq/Spam-Email-Detection-System)- System that classifies messages as spam or not spam using Machine Learning and NLP techniques.
+- [AI Handwritten Digit Classification](https://github.com/AreebaMushtaq/AI-Hand-Written-Digit-Classification)- Handwritten digit recognition web application built using TensorFlow, Streamlit, and Neural Networks.
 
 ## 🎯 Current Focus
 - Learning advanced **Machine Learning and Deep Learning**  
